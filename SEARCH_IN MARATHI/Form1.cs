@@ -22,7 +22,8 @@ namespace SEARCH_IN_MARATHI
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            string table_name;
+            // string added show table name
             adp = new SqlDataAdapter("select * from tests WHERE name LIKE N'" + textBox1.Text + "%'", con);
             DataTable dt = new DataTable();
 
