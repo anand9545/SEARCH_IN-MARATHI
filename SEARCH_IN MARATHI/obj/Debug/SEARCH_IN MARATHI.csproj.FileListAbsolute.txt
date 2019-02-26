@@ -1,0 +1,10 @@
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\bin\Debug\SEARCH_IN MARATHI.exe.config
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\bin\Debug\SEARCH_IN MARATHI.exe
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\bin\Debug\SEARCH_IN MARATHI.pdb
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN MARATHI.csprojAssemblyReference.cache
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN_MARATHI.Form1.resources
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN_MARATHI.Properties.Resources.resources
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN MARATHI.csproj.GenerateResource.cache
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN MARATHI.csproj.CoreCompileInputs.cache
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN MARATHI.exe
+E:\myprojects\WindowsForm\SEARCH_IN MARATHI\SEARCH_IN MARATHI\obj\Debug\SEARCH_IN MARATHI.pdb
